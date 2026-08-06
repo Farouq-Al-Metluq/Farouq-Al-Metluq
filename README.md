@@ -30,5 +30,5 @@
 
 ### 📫 How to Reach Me
 - **Discord:** `sOnk_bOm`
-- **LinkedIn:** [Your LinkedIn Profile URL]
-- **Email:** [Your Email Address]
+- **LinkedIn:** []
+- **Email:** []
