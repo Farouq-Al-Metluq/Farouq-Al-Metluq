@@ -31,4 +31,4 @@
 ### 📫 How to Reach Me
 - **Discord:** `sOnk_bOm`
 - **LinkedIn:** []
-- **Email:** []
+- **Email:** [Farouqalmetlaq2007@gmail.com]
