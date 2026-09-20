@@ -30,5 +30,5 @@
 
 ### 📫 How to Reach Me
 - **Discord:** `sOnk_bOm`
-- **LinkedIn:** []
+- **LinkedIn:** [https://www.linkedin.com/in/farouq-al-metluq-a42280435/]
 - **Email:** [Farouqalmetlaq2007@gmail.com]
