@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Farouq Al-Metluq</h1>
+<h1 align="center">Hi 👋, I'm Farouq Al-Metlaq</h1>
 <h3 align="center">AI & Data Science Student | Competitive Programmer</h3>
 
 <p align="center">
